@@ -1,0 +1,29 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RudReis/whatsapp-bot-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RudReis/whatsapp-bot-1/issues"
+  },
+  "homepage": "https://github.com/RudReis/whatsapp-bot-1#readme",
+  "dependencies": {
+    "core-util-is": "^1.0.3",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.19.1",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "devDependencies": {}
+}
+
